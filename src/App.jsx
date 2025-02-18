@@ -1,4 +1,5 @@
 import './App.css'
+import Friends from './Friends'
 import Singer from './Singer'
 import State from './State'
 import Students from './Student'
@@ -17,6 +18,7 @@ function App() {
   return (
     <>
       <h1>new react app</h1>
+      <Friends />
       <h2>Use state</h2>
       <State />
       <h3>Add Players</h3>
