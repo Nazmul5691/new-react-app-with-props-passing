@@ -4,6 +4,7 @@ export default function Students({student}){
         <div>
             <p>Student Name : {student.name} </p>
             <p>Age : {student.age}</p>
+            <p>Grade : {student.Grade}</p>
         </div>
     )
 }

@@ -7,9 +7,9 @@ function App() {
   const singers = ['Abul', 'Babul', 'Bulbul', 'Mofijul']
 
   const students = [
-    {name: 'Raju', age: 20},
-    {name: 'Paju', age: 20},
-    {name: 'Saju', age: 20}
+    {name: 'Raju', age: 20, Grade: 10},
+    {name: 'Paju', age: 20, Grade: 10},
+    {name: 'Saju', age: 20, Grade: 10}
   ]
 
   return (
